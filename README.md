@@ -1,2 +1,15 @@
 # dream-dwellers-platform
-A full-stack property management and discovery platform built for Dream Dwellers Real Estate. Features a Spring Boot REST API and a React frontend.
+A full-stack property management platform for Dream Dwellers Real Estate. Built with Spring Boot, PostgreSQL, React, and TypeScript — featuring JWT auth, property listings, client lead tracking, and deal pipeline management.
+
+## 🛠️ Tech Stack
+
+**Backend:**
+* Java 21 & Spring Boot
+* Spring Security & JWT (JSON Web Tokens)
+* Spring Data JPA
+* PostgreSQL
+
+**Frontend:**
+* React.js
+* TypeScript
+* TailWind CSS
