@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code (optional)
+.vscode/
+
+# Java
+Backend/target/
+
+# React
+Frontend/my-app/node_modules/
+Frontend/my-app/dist/
+
